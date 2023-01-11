@@ -11,10 +11,6 @@ A React Native app that interacts with the Movies App from rapidapi to get movie
 ### 1. Install dependencies
 
 ```sh
-# Clone the react-native-movie-app repo
-git clone https://github.com/Raymond-ap/react-native-movie-app
-cd react-native-movie-app
-
 # Install npm dependencies
 npm install
 ```
